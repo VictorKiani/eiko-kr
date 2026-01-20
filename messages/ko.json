@@ -1,0 +1,160 @@
+{
+  "common": {
+    "siteName": "EIKO.KR",
+    "tagline": "행운의 번호 생성기",
+    "home": "홈",
+    "generate": "번호 생성",
+    "premium": "프리미엄",
+    "about": "소개",
+    "startFree": "무료로 시작하기",
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "tryAgain": "다시 시도"
+  },
+  "landing": {
+    "badge": "매일 무료 3회 생성 가능",
+    "heroTitle": "당신만의 행운 번호를 찾아보세요",
+    "heroDescription": "생년월일, 이름, 띠, 꿈 해몽을 기반으로 개인화된 행운의 숫자를 생성해 드립니다.",
+    "ctaGenerate": "지금 번호 받기",
+    "ctaHowItWorks": "어떻게 작동하나요?",
+    "features": {
+      "title": "개인화된 행운 분석",
+      "description": "동양의 전통 수비학과 현대적인 알고리즘을 결합하여 당신에게 특별한 의미가 있는 숫자를 찾아드립니다.",
+      "birthdate": {
+        "title": "생년월일 분석",
+        "description": "태어난 날의 에너지를 숫자로 변환하여 행운의 기운을 찾습니다."
+      },
+      "zodiac": {
+        "title": "띠 & 별자리",
+        "description": "12지신과 별자리의 조합으로 당신만의 특별한 번호를 도출합니다."
+      },
+      "name": {
+        "title": "이름 수리",
+        "description": "한글 이름의 획수로 동양 수비학 기반의 행운 번호를 계산합니다."
+      },
+      "dream": {
+        "title": "꿈 해몽",
+        "description": "간밤의 꿈을 분석하여 숨겨진 행운의 숫자를 찾아드립니다."
+      }
+    },
+    "games": {
+      "title": "지원하는 복권 종류",
+      "description": "대한민국 인기 복권부터 해외 복권까지, 다양한 게임에 맞는 행운 번호를 생성하세요."
+    },
+    "testimonials": {
+      "title": "행운을 경험한 분들",
+      "description": "EIKO.KR을 이용한 실제 사용자들의 후기입니다."
+    },
+    "cta": {
+      "title": "오늘의 행운을 시험해 보세요",
+      "description": "무료로 3회까지 번호를 생성할 수 있습니다. 프리미엄 멤버십으로 무제한 이용하세요.",
+      "button": "무료로 시작하기",
+      "premiumButton": "프리미엄 보기"
+    }
+  },
+  "generate": {
+    "step1Title": "복권 종류 선택",
+    "step1Description": "행운 번호를 받을 복권 종류를 선택하세요",
+    "step2Title": "개인 정보 입력",
+    "step2Description": "더 정확한 행운 번호를 위해 정보를 입력하세요 (선택사항)",
+    "step3Title": "당신의 행운 번호",
+    "next": "다음 단계로",
+    "previous": "이전으로",
+    "generateButton": "행운 번호 생성",
+    "generating": "생성 중...",
+    "regenerate": "다시 생성하기",
+    "moreNumbers": "더 많은 번호 받기",
+    "share": "친구에게 공유하기",
+    "disclaimer": "본 서비스는 오락 목적으로만 제공되며, 당첨을 보장하지 않습니다. 책임감 있는 복권 구매를 권장합니다.",
+    "form": {
+      "name": "이름 (한글)",
+      "namePlaceholder": "예: 홍길동",
+      "nameHint": "이름의 획수로 행운 번호를 계산합니다",
+      "birthYear": "출생연도",
+      "birthMonth": "월",
+      "birthDay": "일",
+      "mood": "오늘의 기분",
+      "dream": "꿈 해몽 (최근에 꾼 꿈)",
+      "dreamPlaceholder": "꿈에서 본 것 선택..."
+    },
+    "moods": {
+      "happy": "행복",
+      "calm": "평온",
+      "excited": "설레임",
+      "hopeful": "기대",
+      "optimistic": "희망",
+      "grateful": "감사",
+      "passionate": "열정",
+      "composed": "침착"
+    },
+    "results": {
+      "factors": "행운 분석 요인"
+    }
+  },
+  "games": {
+    "lotto645": {
+      "name": "로또 6/45",
+      "description": "대한민국 대표 복권",
+      "format": "6개 숫자 선택",
+      "range": "1-45"
+    },
+    "pension720": {
+      "name": "연금복권 720+",
+      "description": "매월 연금처럼 당첨금",
+      "format": "7자리 숫자",
+      "range": "0-9"
+    },
+    "spitto": {
+      "name": "스피또",
+      "description": "즉석 당첨 확인",
+      "format": "다양한 게임",
+      "range": "다양"
+    },
+    "powerball": {
+      "name": "파워볼",
+      "description": "미국 메가 잭팟",
+      "format": "5+1 숫자",
+      "range": "1-69, 1-26"
+    }
+  },
+  "premium": {
+    "title": "프리미엄 멤버십",
+    "description": "무제한 행운 번호와 고급 기능으로 더 특별한 행운을 경험하세요.",
+    "discount": "첫 달 50% 할인 이벤트 진행 중",
+    "plans": {
+      "free": {
+        "name": "무료",
+        "description": "행운 번호 체험하기",
+        "cta": "현재 이용 중"
+      },
+      "premium": {
+        "name": "프리미엄",
+        "description": "진정한 행운의 파트너",
+        "cta": "시작하기"
+      },
+      "supporter": {
+        "name": "후원자",
+        "description": "EIKO.KR을 응원해 주세요",
+        "cta": "후원하기"
+      }
+    }
+  },
+  "about": {
+    "title": "EIKO.KR 소개",
+    "description": "동양의 지혜와 현대 기술의 만남. 당신만의 특별한 행운 번호를 찾아드립니다.",
+    "howItWorks": "어떻게 작동하나요?",
+    "trustTitle": "신뢰할 수 있는 이유",
+    "faqTitle": "자주 묻는 질문"
+  },
+  "footer": {
+    "description": "당신만의 행운 번호를 찾아보세요. 생년월일, 이름, 띠, 꿈 해몽으로 맞춤형 행운 번호를 추천해 드립니다.",
+    "services": "서비스",
+    "lottery": "복권 종류",
+    "legal": "법적 고지",
+    "terms": "이용약관",
+    "privacy": "개인정보처리방침",
+    "disclaimer": "본 서비스는 오락 목적으로만 제공되며, 당첨을 보장하지 않습니다.",
+    "copyright": "All rights reserved.",
+    "madeIn": "Made with luck in Korea"
+  }
+}

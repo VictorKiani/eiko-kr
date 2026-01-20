@@ -1,0 +1,160 @@
+{
+  "common": {
+    "siteName": "EIKO.KR",
+    "tagline": "Lucky Number Generator",
+    "home": "Home",
+    "generate": "Generate",
+    "premium": "Premium",
+    "about": "About",
+    "startFree": "Start Free",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "tryAgain": "Try Again"
+  },
+  "landing": {
+    "badge": "3 free generations daily",
+    "heroTitle": "Find Your Lucky Numbers",
+    "heroDescription": "Generate personalized lucky numbers based on your birthdate, name, zodiac, and dream interpretation.",
+    "ctaGenerate": "Get Numbers Now",
+    "ctaHowItWorks": "How does it work?",
+    "features": {
+      "title": "Personalized Luck Analysis",
+      "description": "Combining Eastern traditional numerology with modern algorithms to find numbers that are meaningful to you.",
+      "birthdate": {
+        "title": "Birthdate Analysis",
+        "description": "Convert your birth energy into lucky numbers."
+      },
+      "zodiac": {
+        "title": "Zodiac Signs",
+        "description": "Derive your special numbers from Korean and Western zodiac combinations."
+      },
+      "name": {
+        "title": "Name Numerology",
+        "description": "Calculate lucky numbers based on Korean name stroke count."
+      },
+      "dream": {
+        "title": "Dream Interpretation",
+        "description": "Analyze your dreams to find hidden lucky numbers."
+      }
+    },
+    "games": {
+      "title": "Supported Lottery Games",
+      "description": "Generate lucky numbers for various games from Korean lotteries to international ones."
+    },
+    "testimonials": {
+      "title": "Success Stories",
+      "description": "Real experiences from EIKO.KR users."
+    },
+    "cta": {
+      "title": "Try Your Luck Today",
+      "description": "Generate up to 3 sets of numbers for free. Go premium for unlimited access.",
+      "button": "Start Free",
+      "premiumButton": "View Premium"
+    }
+  },
+  "generate": {
+    "step1Title": "Select Lottery Type",
+    "step1Description": "Choose the lottery type for your lucky numbers",
+    "step2Title": "Enter Personal Info",
+    "step2Description": "Enter your info for more accurate lucky numbers (optional)",
+    "step3Title": "Your Lucky Numbers",
+    "next": "Next",
+    "previous": "Back",
+    "generateButton": "Generate Lucky Numbers",
+    "generating": "Generating...",
+    "regenerate": "Generate Again",
+    "moreNumbers": "Get More Numbers",
+    "share": "Share with Friends",
+    "disclaimer": "This service is for entertainment purposes only and does not guarantee winnings. Please gamble responsibly.",
+    "form": {
+      "name": "Name (Korean)",
+      "namePlaceholder": "e.g., Hong Gil-dong",
+      "nameHint": "Lucky numbers are calculated from name stroke count",
+      "birthYear": "Birth Year",
+      "birthMonth": "Month",
+      "birthDay": "Day",
+      "mood": "Today's Mood",
+      "dream": "Dream Symbol (Recent Dream)",
+      "dreamPlaceholder": "Select what you saw in your dream..."
+    },
+    "moods": {
+      "happy": "Happy",
+      "calm": "Calm",
+      "excited": "Excited",
+      "hopeful": "Hopeful",
+      "optimistic": "Optimistic",
+      "grateful": "Grateful",
+      "passionate": "Passionate",
+      "composed": "Composed"
+    },
+    "results": {
+      "factors": "Luck Analysis Factors"
+    }
+  },
+  "games": {
+    "lotto645": {
+      "name": "Lotto 6/45",
+      "description": "Korea's flagship lottery",
+      "format": "Pick 6 numbers",
+      "range": "1-45"
+    },
+    "pension720": {
+      "name": "Pension Lottery 720+",
+      "description": "Monthly pension prizes",
+      "format": "7-digit number",
+      "range": "0-9"
+    },
+    "spitto": {
+      "name": "Spitto",
+      "description": "Instant scratch lottery",
+      "format": "Various games",
+      "range": "Various"
+    },
+    "powerball": {
+      "name": "Powerball",
+      "description": "US mega jackpot",
+      "format": "5+1 numbers",
+      "range": "1-69, 1-26"
+    }
+  },
+  "premium": {
+    "title": "Premium Membership",
+    "description": "Experience special luck with unlimited generations and advanced features.",
+    "discount": "50% off first month",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "description": "Try lucky numbers",
+        "cta": "Current Plan"
+      },
+      "premium": {
+        "name": "Premium",
+        "description": "Your true luck partner",
+        "cta": "Get Started"
+      },
+      "supporter": {
+        "name": "Supporter",
+        "description": "Support EIKO.KR",
+        "cta": "Support Us"
+      }
+    }
+  },
+  "about": {
+    "title": "About EIKO.KR",
+    "description": "Where Eastern wisdom meets modern technology. Find your unique lucky numbers.",
+    "howItWorks": "How does it work?",
+    "trustTitle": "Why Trust Us",
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "footer": {
+    "description": "Find your lucky numbers. Get personalized recommendations based on birthdate, name, zodiac, and dream interpretation.",
+    "services": "Services",
+    "lottery": "Lottery Types",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "disclaimer": "This service is for entertainment purposes only and does not guarantee winnings.",
+    "copyright": "All rights reserved.",
+    "madeIn": "Made with luck in Korea"
+  }
+}
